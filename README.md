@@ -30,34 +30,63 @@ AI Engineer | LLM, RAG, NLP | Python | Evaluation & Reliable AI Systems
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/JACTyt/port-scanner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JACTyt&repo=port-scanner&theme=default&hide_border=true" alt="port-scanner" />
-  </a>
-  <a href="https://github.com/JACTyt/lit-agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JACTyt&repo=lit-agent&theme=default&hide_border=true" alt="lit-agent" />
-  </a>
-  <a href="https://github.com/JACTyt/agent-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JACTyt&repo=agent-dashboard&theme=default&hide_border=true" alt="agent-dashboard" />
-  </a>
-  <a href="https://github.com/JACTyt/nerf-os">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JACTyt&repo=nerf-os&theme=default&hide_border=true" alt="nerf-os" />
-  </a>
-  <a href="https://github.com/JACTyt/over-base">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JACTyt&repo=over-base&theme=default&hide_border=true" alt="over-base" />
-  </a>
-  <a href="https://github.com/JACTyt/regex-highlights">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JACTyt&repo=regex-highlights&theme=default&hide_border=true" alt="regex-highlights" />
-  </a>
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/JACTyt/port-scanner"><b>port-scanner</b></a><br/>
+      <sub>Fast TCP/UDP port scanner with service fingerprinting</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/JACTyt/lit-agent"><b>lit-agent</b></a><br/>
+      <sub>LLM-powered literature review and research assistant</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/JACTyt/agent-dashboard"><b>agent-dashboard</b></a><br/>
+      <sub>Real-time monitoring UI for AI agent pipelines</sub><br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/JACTyt/nerf-os"><b>nerf-os</b></a><br/>
+      <sub>Linux-based OS built entirely from shell scripts</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/JACTyt/over-base"><b>over-base</b></a><br/>
+      <sub>Web service with Python backend and Angular frontend</sub><br/><br/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/JACTyt/regex-highlights"><b>regex-highlights</b></a><br/>
+      <sub>Regex-powered syntax highlighting engine</sub><br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JACTyt&show_icons=true&theme=default&hide_border=true&count_private=true" alt="JACTyt's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JACTyt&layout=compact&theme=default&hide_border=true&hide=jupyter%20notebook" alt="Top languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JACTyt&theme=transparent" alt="Profile details" />
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JACTyt&theme=transparent" alt="Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JACTyt&theme=transparent" alt="Popular languages by repo" />
 </div>
 
 <div align="center">
