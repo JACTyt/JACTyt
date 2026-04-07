@@ -6,25 +6,31 @@ AI Engineer | LLM, RAG, NLP | Python | Evaluation & Reliable AI Systems
 
 ## 🛠 Tech Stack
 
-**⚙ Backend**
-
-<img src="https://skillicons.dev/icons?i=python,java,cs,postgres,mongodb" alt="Backend skills" />
-
-**🚀 DevOps & Cloud**
-
-<img src="https://skillicons.dev/icons?i=docker,githubactions,aws,gcp,azure" alt="DevOps skills" />
-
-**🤖 AI / ML**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="ML frameworks" />
-
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic_API-191919?style=flat-square&logoColor=white)
-![DeepInfra](https://img.shields.io/badge/DeepInfra-6B46C1?style=flat-square&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center"><b>⚙ Backend</b></td>
+    <td align="center"><b>🚀 DevOps & Cloud</b></td>
+    <td align="center"><b>🤖 AI / ML</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,java,cs,postgres,mongodb" alt="Backend skills" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,gcp,azure" alt="DevOps skills" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="ML frameworks" /><br/>
+      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Anthropic_API-191919?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/DeepInfra-6B46C1?style=flat-square&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
